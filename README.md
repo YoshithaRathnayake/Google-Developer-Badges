@@ -4,5 +4,5 @@
 
 > <a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
 
-# <img src="Udemy Certificate JPG.jpg">
+# <img src="Udemy Certificate JPG.jpg"> 
  
