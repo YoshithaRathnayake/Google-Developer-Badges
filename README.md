@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>Udemy Ubuntu Linux Desktop Basics Course</i></b></a></div>
+# <div align="center"><a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>My Google Developer Badges</i></b></a></div>
 
 > This is the Certificate that I got from <a href="https://www.udemy.com/course/ubuntu-linux-dekstop-basics/?src=sac"><b><i>"Udemy Ubuntu Linux Desktop Basics Course"</i></b></a>.
 
