@@ -6,9 +6,10 @@
 
 # <div align="center"><img src="![image](https://user-images.githubusercontent.com/97069900/153521960-830a1f9f-e5e0-4c96-80f5-42d3c8cd10e9.png)"></div>
 
+
 <!-- Created Google Developer Profile Badge -->
 # 
-## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Level 0 - Contributor Kraken Badge</i></b></a>
+## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Created Google Developer Profile Badge</i></b></a>
  
 # <div align="center"><img src="Images/Level 0 - Contributor Kraken.png" height="300px"></div> 
  
