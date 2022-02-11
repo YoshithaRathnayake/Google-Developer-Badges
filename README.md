@@ -11,10 +11,9 @@
 # 
 ## <a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>Created Google Developer Profile Badge</i></b></a>
 
-<div align="center">![image](https://user-images.githubusercontent.com/97069900/153522359-767d7a85-e19b-41a5-b5dd-728d7259d4e8.png)</div>
+# <div align="center">![image](https://user-images.githubusercontent.com/97069900/153522359-767d7a85-e19b-41a5-b5dd-728d7259d4e8.png)</div>
 
- 
-# <div align="center"><img src="My Google Developer 1st Badge.png" height="300px"></div> 
+# <div align="center"><img src="My Google Developer 1st Badge.png"></div> 
  
 # <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151771638-16b0cde9-b8c9-4559-a588-651eea6e2ee0.png)</a></div>
  
