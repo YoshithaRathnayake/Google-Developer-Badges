@@ -16,6 +16,5 @@
 # <div align="center"><img src="My Google Developer 1st Badge.png"></div> 
  
 # <div align="center"><img src="My Google Developer 1st Badge Certificate.png"></div>
- 
-# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 0 - Contributor Kraken Badge Certificate.png"></a>
+
  
