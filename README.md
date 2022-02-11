@@ -11,7 +11,7 @@
 # 
 ## <a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>Created Google Developer Profile Badge</i></b></a>
 
-<div align="center"><img src="![image](https://user-images.githubusercontent.com/97069900/153522359-767d7a85-e19b-41a5-b5dd-728d7259d4e8.png)"></a>
+<div align="center">![image](https://user-images.githubusercontent.com/97069900/153522359-767d7a85-e19b-41a5-b5dd-728d7259d4e8.png)</a>
 
  
 # <div align="center"><img src="My Google Developer 1st Badge.png" height="300px"></div> 
