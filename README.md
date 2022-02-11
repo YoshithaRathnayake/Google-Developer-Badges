@@ -9,7 +9,7 @@
 
 <!-- Created Google Developer Profile Badge -->
 # 
-## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Created Google Developer Profile Badge</i></b></a>
+## <a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i>Created Google Developer Profile Badge</i></b></a>
  
 # <div align="center"><img src="Images/Level 0 - Contributor Kraken.png" height="300px"></div> 
  
