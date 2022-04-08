@@ -18,6 +18,6 @@
  
 # <div align="center"><img src="My Google Developer 1st Badge Certificate.png"></div>
 #
-> I got this Badge when I am 13 years old (Grade 8D).
+> I got this Badge when I was 13 years old (Grade 8D).
 
  
